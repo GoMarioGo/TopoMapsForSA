@@ -1,0 +1,9 @@
+C:\Users\tonyt\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\bin\Release\GIS2LKMAP.exe
+C:\Users\tonyt\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\bin\Release\GIS2LKMAP.pdb
+C:\Users\tonyt\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Release\GIS2LKMAP.Form1.resources
+C:\Users\tonyt\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Release\GIS2LKMAP.Properties.Resources.resources
+C:\Users\tonyt\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Release\GIS2LKMAP.csproj.GenerateResource.Cache
+C:\Users\tonyt\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Release\GIS2LKMAP.exe
+C:\Users\tonyt\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Release\GIS2LKMAP.pdb
+C:\Users\sp15442\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Release\GIS2LKMAP.exe
+C:\Users\sp15442\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Release\GIS2LKMAP.pdb

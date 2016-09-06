@@ -1,0 +1,16 @@
+C:\Users\sp15442\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Debug\GIS2LKMAP.Form1.resources
+C:\Users\sp15442\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Debug\GIS2LKMAP.Properties.Resources.resources
+C:\Users\sp15442\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Debug\GIS2LKMAP.csproj.GenerateResource.Cache
+C:\Users\sp15442\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\bin\Debug\GIS2LKMAP.exe
+C:\Users\sp15442\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\bin\Debug\GIS2LKMAP.pdb
+C:\Users\sp15442\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Debug\GIS2LKMAP.exe
+C:\Users\sp15442\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Debug\GIS2LKMAP.pdb
+C:\Users\sp15442\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Debug\GIS2LKMAP.csprojResolveAssemblyReference.cache
+C:\Users\tonyt\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Debug\GIS2LKMAP.exe
+C:\Users\tonyt\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Debug\GIS2LKMAP.pdb
+C:\Users\tonyt\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\bin\Debug\GIS2LKMAP.exe
+C:\Users\tonyt\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\bin\Debug\GIS2LKMAP.pdb
+C:\Users\tonyt\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Debug\GIS2LKMAP.csprojResolveAssemblyReference.cache
+C:\Users\tonyt\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Debug\GIS2LKMAP.Form1.resources
+C:\Users\tonyt\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Debug\GIS2LKMAP.Properties.Resources.resources
+C:\Users\tonyt\Dropbox\sviluppo\GIS2LKMAP\GIS2LKMAP\obj\x86\Debug\GIS2LKMAP.csproj.GenerateResource.Cache
