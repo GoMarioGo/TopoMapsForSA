@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.IO;
+using System.Globalization;
 
 namespace GIS2LKMAP
 {
@@ -129,13 +130,13 @@ namespace GIS2LKMAP
                                 Rows = UInt16.Parse(components[1]);
                                 break;
                             case "xllcorner":
-                                Left = Double.Parse(components[1]);
+                                Double.TryParse(components[1], NumberStyles.Float, CultureInfo.InvariantCulture, out Left);
                                 break;
                             case "yllcorner":
-                                Bottom = Double.Parse(components[1]);
+                                Double.TryParse(components[1], NumberStyles.Float, CultureInfo.InvariantCulture, out Bottom);
                                 break;
                             case "cellsize":
-                                StepSize = Double.Parse(components[1]);
+                                Double.TryParse(components[1], NumberStyles.Float, CultureInfo.InvariantCulture, out StepSize);
                                 break;
                         }
 
